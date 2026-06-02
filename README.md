@@ -16,7 +16,7 @@ A high-performance, visually immersive desktop game launcher built with Electron
 
 ## 🚀 Installation & Local Development
 
-1. **Clone the repository:**
-```bash
-   git clone [https://github.com/YOUR_USERNAME/g-hub-launcher.git](https://github.com/YOUR_USERNAME/g-hub-launcher.git)
-   cd g-hub-launcher
+install the .deb or download the .exe
+it should work and if it dosen't just report it so that i can fix it,
+i made this in a day so don't be surprised if it has some bugs, but from my testing it does work well
+anyways, i hope you enjoy your new game launcher
